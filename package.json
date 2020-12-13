@@ -2,6 +2,8 @@
   "name": "calcit-nodejs-workflow",
   "version": "0.1.0",
   "scripts": {
+    "deploy": "clj -A:release",
+    "m2": "clj -A:release install",
     "watch": "yarn shadow-cljs watch app"
   },
   "main": "index.js",
