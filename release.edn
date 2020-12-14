@@ -1,0 +1,6 @@
+{:version "0.1.0-a1"
+ :group-id "mvc-works"
+ :artifact-id "map-spec"
+ :skip-tag true
+ :description "map alternative"
+ :scm-url "https://github.com/mvc-works/map-spec"}
